@@ -1,0 +1,10 @@
+Create a person class here using Java.
+
+class Person {
+	private String name;
+	private String lastName;
+
+	//Todo: getters & setters below
+
+}
+
